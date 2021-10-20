@@ -1,4 +1,4 @@
-# first
+# Vue 3 - Firebase CRUD 
 
 ## Project setup
 ```
