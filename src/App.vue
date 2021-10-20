@@ -22,8 +22,8 @@ export default {
   created() {
         
 
-    const data = signInWithEmail("sabrisezer@yahoo.co.uk", "123456").then((res)=>{
-      console.log("getUserFireBase bitti ", res)      
+    const data = signInWithEmail("your-mail-adress", "6 character passs").then((res)=>{
+      console.log("getUserFireBase finish ", res)      
     });
 
     console.log("data response :", data);
